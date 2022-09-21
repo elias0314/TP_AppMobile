@@ -1,0 +1,3 @@
+git Appréciation
+
+- Ça ma permit de mieux comprendre git

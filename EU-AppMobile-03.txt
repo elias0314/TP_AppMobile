@@ -1,0 +1,5 @@
+Profiles types d'utilisateur Résumer
+
+- Faire un persona
+
+- Story Mapping
